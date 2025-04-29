@@ -1,3 +1,7 @@
 * {
   background-color: violet;
 }
+
+.dropdown-menu {
+  border: 1px solid purple;
+}
